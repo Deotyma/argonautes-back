@@ -1,0 +1,18 @@
+/* import Argonaute from '../models/argonauteModel.js'
+
+export const getAllArgonautes = async (req, reply) => {
+    const argonautes = await Argonaute.find();
+    return argonautes
+  }  */
+
+/* const getOneArgonaute = async (req, reply) => {
+    const id = req.params.id;
+    const oneArgonaute = await Argonaute.findById({_id: id});
+    return oneArgonaute
+  }  */ 
+
+//export default {
+    //getAllArgonautes
+//}
+    //getOneArgonaute
+
